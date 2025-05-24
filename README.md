@@ -54,8 +54,8 @@ iv) Perform face detection with label in real-time video from webcam.
 - Step 5: Exit loop and close windows when ESC key (key code 27) is pressed  
 - Step 6: Release video capture and destroy all OpenCV windows  
 ## PROGRAM:
-### Name : KATHIRESH M
-### Register Number : 212224240073
+### Name : MOHAMED RASHITH S
+### Register Number : 212223243003
 
 ```
 import numpy as np
